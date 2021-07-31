@@ -1,0 +1,11 @@
+
+NAME        AGE        GENDER        COVID RESULT
+[('test', 65, 'M')] [32mNEGATIVE[0m
+NAME        AGE        GENDER        COVID RESULT
+[('testagain', 45, 'F')] [31mPOSIIVE[0m
+NAME        AGE        GENDER        COVID RESULT
+[('testingagainthree', 45, 'F')] [32mNEGATIVE[0m
+NAME        AGE        GENDER        COVID RESULT
+[('n', 234, 'F')] [32mNEGATIVE[0m
+NAME        AGE        GENDER        COVID RESULT
+[('n', 234, 'F')] [32mNEGATIVE[0m
